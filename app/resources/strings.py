@@ -1,0 +1,1 @@
+gopher_link = "https://ctl.s6img.com/society6/img/nv3uPo3w2F640PU3j4biVhTF12k/w_700/canvas/~artwork/s6-original-art-uploads/society6/uploads/misc/62485a7e59df4b388fe446bbe00ad452/~~/golang-gopher-wizard-canvas.jpg"

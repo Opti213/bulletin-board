@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+set -e
+set -x
+
+pytest --cov=app --cov-report=term-missing --cov-config=setup.cfg ${@}
+coverage report --fail-under=0
