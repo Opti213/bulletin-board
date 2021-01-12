@@ -7,7 +7,7 @@ authors = ["MGorbachev <opti213@mail.ru>"]
 [tool.poetry.dependencies]
 python = "^3.8"
 fastapi = "^0.47.1"
-uvicorn = "^0.11.2"
+uvicorn = "^0.11.7"
 
 [tool.poetry.dev-dependencies]
 mypy = "^0.761"
