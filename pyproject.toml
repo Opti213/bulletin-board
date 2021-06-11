@@ -10,7 +10,7 @@ fastapi = "^0.47.1"
 uvicorn = "^0.11.2"
 
 [tool.poetry.dev-dependencies]
-mypy = "^0.761"
+mypy = "^0.902"
 isort = "^4.3.21"
 black = "^19.10b0"
 wemake-python-styleguide = "^0.13.4"
